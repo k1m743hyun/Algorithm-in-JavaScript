@@ -1,1 +1,1 @@
-# algorithm-in-typescript
+# algorithm-in-javascript
